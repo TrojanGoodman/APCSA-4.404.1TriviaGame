@@ -1,0 +1,10 @@
+How many code u levels are there at the hub?
+3
+What is mrbeasts first name
+jimmy
+how many questions were before this question
+2
+true or false, this is coded in python
+false
+what is 1 + 2
+3
